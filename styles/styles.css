@@ -182,3 +182,14 @@ nav li a{
     font-size: 15px;
     font-weight: 500;
 }
+.early-access{
+    background-color: #F7F6F2;
+    padding: 80px;
+    border-radius: 12px;
+}
+.early-access-btn{
+    margin-top: 24px;
+}
+.access-links{
+    margin-top: 16px;
+}
