@@ -155,6 +155,10 @@ nav li a{
     gap: 60px;
     align-items: center;
 }
+.features-section-image{
+    border-radius: 12px;
+    max-width: 600px;
+}
 .features-sub-title{
     font-size: 16px;
     font-weight: 500;
