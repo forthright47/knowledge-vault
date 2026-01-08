@@ -172,6 +172,7 @@ nav li a{
     display: inline-flex;
     gap: 6px;
     line-height: 20px;
+    margin-top: 8px;
 }
 .checklist p{
     font-size: 15px;
