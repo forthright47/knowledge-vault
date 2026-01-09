@@ -102,10 +102,12 @@ nav li a{
 .banner{
     background-image: url('../assets/hero-bg.png');
     background-repeat: no-repeat;
+    background-size: cover;
     padding: 130px;
 }
 .banner-content{
     max-width: 1360px;
+    margin: 0 auto;
 }
 .banner-badge{
   display: inline-flex;
