@@ -17,11 +17,13 @@
     font-size: 16px;
     font-weight: 600;
     cursor: pointer;
+    transition: transform 0.25s ease;
 }
 /* hover effect */
 .btn-primary:hover{
-    background-color: #104c51;
+    background-color: #199f96;
     transition: .3s ease-in;
+    transform: scale(1.05);
 }
 .btn-secondary{
     color: white;
@@ -33,11 +35,13 @@
     cursor: pointer;
     margin-left: 16px;
     background: transparent;
+    transition: transform 0.25s ease;
 }
 /* hover effect */
 .btn-secondary:hover{
-    background-color: #da5153ed;
+    background-color: #F95555;
     transition: .3s ease-in;
+    transform: scale(1.05);
 }
 .text-green{
     color: #30B868;
